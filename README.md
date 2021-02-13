@@ -5,7 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 2.7.0
+
+* Rails version - _5.2.2_
 
 * System dependencies
 
@@ -16,6 +18,10 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
+
+- bundle install
+
+- rails server
 
 * Services (job queues, cache servers, search engines, etc.)
 
